@@ -1,6 +1,8 @@
-# Elixirpasswordgenerator
+# EPhoenixPasswordGenerator
 
-**TODO: Add description**
+A password generator created using Elixir on the Phoenix Framework. 
+
+This project was created for practice and education utilizing the references below for a baseline.
 
 ## Installation
 
@@ -19,3 +21,6 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/elixirpasswordgenerator>.
 
+## References
+
+"Elixir & Phoenix Fundamentals Full Course For Beginners" <i>Youtube</i>, uploaded by Elixirprogrammer, October 7, 2022, https://www.youtube.com/watch?v=gRQIPvDFuts
